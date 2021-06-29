@@ -1,0 +1,13 @@
+C:\Users\thili\OneDrive\Documents\Google Drive\VisualStudioProjects\binarySearchAlgo\binarySearchAlgo\obj\Debug\netcoreapp3.1\binarySearchAlgo.csproj.AssemblyReference.cache
+C:\Users\thili\OneDrive\Documents\Google Drive\VisualStudioProjects\binarySearchAlgo\binarySearchAlgo\obj\Debug\netcoreapp3.1\binarySearchAlgo.AssemblyInfoInputs.cache
+C:\Users\thili\OneDrive\Documents\Google Drive\VisualStudioProjects\binarySearchAlgo\binarySearchAlgo\obj\Debug\netcoreapp3.1\binarySearchAlgo.AssemblyInfo.cs
+C:\Users\thili\OneDrive\Documents\Google Drive\VisualStudioProjects\binarySearchAlgo\binarySearchAlgo\obj\Debug\netcoreapp3.1\binarySearchAlgo.csproj.CoreCompileInputs.cache
+C:\Users\thili\OneDrive\Documents\Google Drive\VisualStudioProjects\binarySearchAlgo\binarySearchAlgo\bin\Debug\netcoreapp3.1\binarySearchAlgo.exe
+C:\Users\thili\OneDrive\Documents\Google Drive\VisualStudioProjects\binarySearchAlgo\binarySearchAlgo\bin\Debug\netcoreapp3.1\binarySearchAlgo.deps.json
+C:\Users\thili\OneDrive\Documents\Google Drive\VisualStudioProjects\binarySearchAlgo\binarySearchAlgo\bin\Debug\netcoreapp3.1\binarySearchAlgo.runtimeconfig.json
+C:\Users\thili\OneDrive\Documents\Google Drive\VisualStudioProjects\binarySearchAlgo\binarySearchAlgo\bin\Debug\netcoreapp3.1\binarySearchAlgo.runtimeconfig.dev.json
+C:\Users\thili\OneDrive\Documents\Google Drive\VisualStudioProjects\binarySearchAlgo\binarySearchAlgo\bin\Debug\netcoreapp3.1\binarySearchAlgo.dll
+C:\Users\thili\OneDrive\Documents\Google Drive\VisualStudioProjects\binarySearchAlgo\binarySearchAlgo\bin\Debug\netcoreapp3.1\binarySearchAlgo.pdb
+C:\Users\thili\OneDrive\Documents\Google Drive\VisualStudioProjects\binarySearchAlgo\binarySearchAlgo\obj\Debug\netcoreapp3.1\binarySearchAlgo.dll
+C:\Users\thili\OneDrive\Documents\Google Drive\VisualStudioProjects\binarySearchAlgo\binarySearchAlgo\obj\Debug\netcoreapp3.1\binarySearchAlgo.pdb
+C:\Users\thili\OneDrive\Documents\Google Drive\VisualStudioProjects\binarySearchAlgo\binarySearchAlgo\obj\Debug\netcoreapp3.1\binarySearchAlgo.genruntimeconfig.cache

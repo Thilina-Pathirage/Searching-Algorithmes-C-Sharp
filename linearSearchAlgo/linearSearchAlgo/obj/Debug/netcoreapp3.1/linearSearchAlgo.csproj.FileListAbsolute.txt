@@ -1,0 +1,13 @@
+C:\Users\thili\OneDrive\Documents\Google Drive\VisualStudioProjects\linearSearchAlgo\linearSearchAlgo\bin\Debug\netcoreapp3.1\linearSearchAlgo.exe
+C:\Users\thili\OneDrive\Documents\Google Drive\VisualStudioProjects\linearSearchAlgo\linearSearchAlgo\bin\Debug\netcoreapp3.1\linearSearchAlgo.deps.json
+C:\Users\thili\OneDrive\Documents\Google Drive\VisualStudioProjects\linearSearchAlgo\linearSearchAlgo\bin\Debug\netcoreapp3.1\linearSearchAlgo.runtimeconfig.json
+C:\Users\thili\OneDrive\Documents\Google Drive\VisualStudioProjects\linearSearchAlgo\linearSearchAlgo\bin\Debug\netcoreapp3.1\linearSearchAlgo.runtimeconfig.dev.json
+C:\Users\thili\OneDrive\Documents\Google Drive\VisualStudioProjects\linearSearchAlgo\linearSearchAlgo\bin\Debug\netcoreapp3.1\linearSearchAlgo.dll
+C:\Users\thili\OneDrive\Documents\Google Drive\VisualStudioProjects\linearSearchAlgo\linearSearchAlgo\bin\Debug\netcoreapp3.1\linearSearchAlgo.pdb
+C:\Users\thili\OneDrive\Documents\Google Drive\VisualStudioProjects\linearSearchAlgo\linearSearchAlgo\obj\Debug\netcoreapp3.1\linearSearchAlgo.csproj.AssemblyReference.cache
+C:\Users\thili\OneDrive\Documents\Google Drive\VisualStudioProjects\linearSearchAlgo\linearSearchAlgo\obj\Debug\netcoreapp3.1\linearSearchAlgo.AssemblyInfoInputs.cache
+C:\Users\thili\OneDrive\Documents\Google Drive\VisualStudioProjects\linearSearchAlgo\linearSearchAlgo\obj\Debug\netcoreapp3.1\linearSearchAlgo.AssemblyInfo.cs
+C:\Users\thili\OneDrive\Documents\Google Drive\VisualStudioProjects\linearSearchAlgo\linearSearchAlgo\obj\Debug\netcoreapp3.1\linearSearchAlgo.csproj.CoreCompileInputs.cache
+C:\Users\thili\OneDrive\Documents\Google Drive\VisualStudioProjects\linearSearchAlgo\linearSearchAlgo\obj\Debug\netcoreapp3.1\linearSearchAlgo.dll
+C:\Users\thili\OneDrive\Documents\Google Drive\VisualStudioProjects\linearSearchAlgo\linearSearchAlgo\obj\Debug\netcoreapp3.1\linearSearchAlgo.pdb
+C:\Users\thili\OneDrive\Documents\Google Drive\VisualStudioProjects\linearSearchAlgo\linearSearchAlgo\obj\Debug\netcoreapp3.1\linearSearchAlgo.genruntimeconfig.cache

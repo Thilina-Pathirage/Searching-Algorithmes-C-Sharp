@@ -6,16 +6,49 @@ namespace binarySearchAlgo
     {
         static void Main(string[] args)
         {
-            int [] array = { 3, 4, 5, 6, 7, 8, 9 };
+            int size;
+            Console.Write("Enter size of an array: ");
+            size = int.Parse(Console.ReadLine());
+            Random random = new Random();
+
+            int[] array = new int[size];
+
+            for (int i = 0; i < size; i++)
+            {
+                array[i] = random.Next(0, size);
+            }
+
+            Array.Sort(array);
+            for (int i = 0; i < size; i++)
+            {
+                Console.Write(array[i] + " ");
+            }
+            int x;
+
+            Console.WriteLine("");
+            Console.Write("Enter search key: ");
+
+            x = int.Parse(Console.ReadLine());
             int n = array.Length;
-            int x = 5;
 
             binarySearch b = new binarySearch();
-            int result = b.binarySearchmethod(array, x, 0, n - 1);
+            var watch = new System.Diagnostics.Stopwatch();
+
+            watch.Start();
+
+            int result = b.binarySearchmethod(array, x, 0, n-1);
+
+            watch.Stop();
+
             if (result == -1)
+            {
                 Console.WriteLine("Not Found!");
+            }
             else
+            {
                 Console.WriteLine("Element is found at index " + result);
+                Console.WriteLine("Time: " + watch.Elapsed);
+            }
         }
     }
 }

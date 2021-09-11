@@ -11,3 +11,16 @@ C:\Users\thili\OneDrive\Documents\Google Drive\VisualStudioProjects\binarySearch
 C:\Users\thili\OneDrive\Documents\Google Drive\VisualStudioProjects\binarySearchAlgo\binarySearchAlgo\obj\Debug\netcoreapp3.1\binarySearchAlgo.dll
 C:\Users\thili\OneDrive\Documents\Google Drive\VisualStudioProjects\binarySearchAlgo\binarySearchAlgo\obj\Debug\netcoreapp3.1\binarySearchAlgo.pdb
 C:\Users\thili\OneDrive\Documents\Google Drive\VisualStudioProjects\binarySearchAlgo\binarySearchAlgo\obj\Debug\netcoreapp3.1\binarySearchAlgo.genruntimeconfig.cache
+E:\Git\Searching-Algorithmes-C-Sharp\binarySearchAlgo\binarySearchAlgo\bin\Debug\netcoreapp3.1\binarySearchAlgo.exe
+E:\Git\Searching-Algorithmes-C-Sharp\binarySearchAlgo\binarySearchAlgo\bin\Debug\netcoreapp3.1\binarySearchAlgo.deps.json
+E:\Git\Searching-Algorithmes-C-Sharp\binarySearchAlgo\binarySearchAlgo\bin\Debug\netcoreapp3.1\binarySearchAlgo.runtimeconfig.json
+E:\Git\Searching-Algorithmes-C-Sharp\binarySearchAlgo\binarySearchAlgo\bin\Debug\netcoreapp3.1\binarySearchAlgo.runtimeconfig.dev.json
+E:\Git\Searching-Algorithmes-C-Sharp\binarySearchAlgo\binarySearchAlgo\bin\Debug\netcoreapp3.1\binarySearchAlgo.dll
+E:\Git\Searching-Algorithmes-C-Sharp\binarySearchAlgo\binarySearchAlgo\bin\Debug\netcoreapp3.1\binarySearchAlgo.pdb
+E:\Git\Searching-Algorithmes-C-Sharp\binarySearchAlgo\binarySearchAlgo\obj\Debug\netcoreapp3.1\binarySearchAlgo.csprojAssemblyReference.cache
+E:\Git\Searching-Algorithmes-C-Sharp\binarySearchAlgo\binarySearchAlgo\obj\Debug\netcoreapp3.1\binarySearchAlgo.AssemblyInfoInputs.cache
+E:\Git\Searching-Algorithmes-C-Sharp\binarySearchAlgo\binarySearchAlgo\obj\Debug\netcoreapp3.1\binarySearchAlgo.AssemblyInfo.cs
+E:\Git\Searching-Algorithmes-C-Sharp\binarySearchAlgo\binarySearchAlgo\obj\Debug\netcoreapp3.1\binarySearchAlgo.csproj.CoreCompileInputs.cache
+E:\Git\Searching-Algorithmes-C-Sharp\binarySearchAlgo\binarySearchAlgo\obj\Debug\netcoreapp3.1\binarySearchAlgo.dll
+E:\Git\Searching-Algorithmes-C-Sharp\binarySearchAlgo\binarySearchAlgo\obj\Debug\netcoreapp3.1\binarySearchAlgo.pdb
+E:\Git\Searching-Algorithmes-C-Sharp\binarySearchAlgo\binarySearchAlgo\obj\Debug\netcoreapp3.1\binarySearchAlgo.genruntimeconfig.cache

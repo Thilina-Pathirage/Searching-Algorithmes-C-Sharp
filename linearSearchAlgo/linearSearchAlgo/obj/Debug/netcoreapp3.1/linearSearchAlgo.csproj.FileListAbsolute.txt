@@ -11,3 +11,16 @@ C:\Users\thili\OneDrive\Documents\Google Drive\VisualStudioProjects\linearSearch
 C:\Users\thili\OneDrive\Documents\Google Drive\VisualStudioProjects\linearSearchAlgo\linearSearchAlgo\obj\Debug\netcoreapp3.1\linearSearchAlgo.dll
 C:\Users\thili\OneDrive\Documents\Google Drive\VisualStudioProjects\linearSearchAlgo\linearSearchAlgo\obj\Debug\netcoreapp3.1\linearSearchAlgo.pdb
 C:\Users\thili\OneDrive\Documents\Google Drive\VisualStudioProjects\linearSearchAlgo\linearSearchAlgo\obj\Debug\netcoreapp3.1\linearSearchAlgo.genruntimeconfig.cache
+E:\Git\Searching-Algorithmes-C-Sharp\linearSearchAlgo\linearSearchAlgo\bin\Debug\netcoreapp3.1\linearSearchAlgo.exe
+E:\Git\Searching-Algorithmes-C-Sharp\linearSearchAlgo\linearSearchAlgo\bin\Debug\netcoreapp3.1\linearSearchAlgo.deps.json
+E:\Git\Searching-Algorithmes-C-Sharp\linearSearchAlgo\linearSearchAlgo\bin\Debug\netcoreapp3.1\linearSearchAlgo.runtimeconfig.json
+E:\Git\Searching-Algorithmes-C-Sharp\linearSearchAlgo\linearSearchAlgo\bin\Debug\netcoreapp3.1\linearSearchAlgo.runtimeconfig.dev.json
+E:\Git\Searching-Algorithmes-C-Sharp\linearSearchAlgo\linearSearchAlgo\bin\Debug\netcoreapp3.1\linearSearchAlgo.dll
+E:\Git\Searching-Algorithmes-C-Sharp\linearSearchAlgo\linearSearchAlgo\bin\Debug\netcoreapp3.1\linearSearchAlgo.pdb
+E:\Git\Searching-Algorithmes-C-Sharp\linearSearchAlgo\linearSearchAlgo\obj\Debug\netcoreapp3.1\linearSearchAlgo.csprojAssemblyReference.cache
+E:\Git\Searching-Algorithmes-C-Sharp\linearSearchAlgo\linearSearchAlgo\obj\Debug\netcoreapp3.1\linearSearchAlgo.AssemblyInfoInputs.cache
+E:\Git\Searching-Algorithmes-C-Sharp\linearSearchAlgo\linearSearchAlgo\obj\Debug\netcoreapp3.1\linearSearchAlgo.AssemblyInfo.cs
+E:\Git\Searching-Algorithmes-C-Sharp\linearSearchAlgo\linearSearchAlgo\obj\Debug\netcoreapp3.1\linearSearchAlgo.csproj.CoreCompileInputs.cache
+E:\Git\Searching-Algorithmes-C-Sharp\linearSearchAlgo\linearSearchAlgo\obj\Debug\netcoreapp3.1\linearSearchAlgo.dll
+E:\Git\Searching-Algorithmes-C-Sharp\linearSearchAlgo\linearSearchAlgo\obj\Debug\netcoreapp3.1\linearSearchAlgo.pdb
+E:\Git\Searching-Algorithmes-C-Sharp\linearSearchAlgo\linearSearchAlgo\obj\Debug\netcoreapp3.1\linearSearchAlgo.genruntimeconfig.cache
